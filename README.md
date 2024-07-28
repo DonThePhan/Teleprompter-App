@@ -1,1 +1,1 @@
-# Telepromptor-App
+# Teleprompter-App
